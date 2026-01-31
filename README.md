@@ -1,7 +1,12 @@
 # G.M-AND-SONS
+}
+        .logo { font-family: 'Baskerville', 'Garamond', serif; /* This adds the royal font */
+    font-size: 1.8rem; /* Slightly larger for impact */
+    font-weight: bold; 
+    letter-spacing: 3px; 
+    color: #1B4332; 
+    text-transform: uppercase;}
 Handloom , powerloom cloths commission agent and order suppliers
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
