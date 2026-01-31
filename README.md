@@ -143,7 +143,7 @@ Handloom , powerloom cloths commission agent and order suppliers
             <h2 class="section-title">The Signature Edit</h2>
             <div class="grid">
                 <article class="card">
-                    <div class="img-placeholder">Fine Cotton Lungi</div>
+                    <img src="PIC.JPG" alt="G.M. & SONS Royal Lungi" style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                     <h3>The Royal Lungi</h3>
                     <p class="price">₹2,999</p>
                 </article>
