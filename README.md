@@ -143,18 +143,18 @@ Handloom , powerloom cloths commission agent and order suppliers
             <h2 class="section-title">The Signature Edit</h2>
             <div class="grid">
                 <article class="card">
-                    <img src="1000296063.jpg" alt="G.M. & SONS Royal Lungi" style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                    <img src="1000296063.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                     <h3>stoll</h3>
-                    <p class="price">₹2,999</p>
+                    <p class="price">₹</p>
                 </article>
                 <article class="card">
-                    <div class="img-placeholder">Premium Gamcha</div>
-                    <h3>Artisan Gamcha</h3>
+                    <div class="1000292773.jpg">stoll</div>
+                    <h3>stoll</h3>
                     <p class="price">₹1,499</p>
                 </article>
                 <article class="card">
-                    <div class="img-placeholder">Silk Stole</div>
-                    <h3>Heirloom Stole</h3>
+                    <div class="1000293274">Silk Stole</div>
+                    <h3>Stole</h3>
                     <p class="price">₹4,299</p>
                 </article>
             </div>
