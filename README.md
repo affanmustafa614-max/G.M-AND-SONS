@@ -166,7 +166,7 @@ Handloom , powerloom cloths commission agent and order suppliers
                     <p class="price">₹</p>
                 </article>
                 <article class="card">
-                    <div class="1000292773.jpg">stoll</div>
+                    <div class="1000214010.jpg">stoll</div>
                     <h3>stoll</h3>
                     <p class="price">₹1,499</p>
                 </article>
