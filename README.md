@@ -1,5 +1,6 @@
 # G.M-AND-SONS
 Handloom , powerloom cloths commission agent and order suppliers
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,12 +26,13 @@ Handloom , powerloom cloths commission agent and order suppliers
             background: #FDFCFB;
             border-bottom: 1px solid #EAE0D5;
         }
-        .logo { 
-            font-size: 1.4rem; 
-            font-weight: bold; 
-            letter-spacing: 5px; 
-            color: #1B4332; /* Deep Emerald */
-            text-transform: uppercase;
+        .logo { font-family: 'Baskerville', 'Garamond', serif; /* This adds the royal font */
+    font-size: 1.8rem; /* Slightly larger for impact */
+    font-weight: bold; 
+    letter-spacing: 3px; 
+    color: #1B4332; 
+    text-transform: uppercase;}
+           
         }
         nav ul { display: flex; list-style: none; }
         nav ul li { margin-left: 2.5rem; }
@@ -128,7 +130,8 @@ Handloom , powerloom cloths commission agent and order suppliers
         <ul>
             <li><a href="#collection">Collection</a></li>
             <li><a href="#">Heritage</a></li>
-            <li><a href="#">8090307576</a></li>
+            <li><a href="#">8090307576-Moin</a></li>
+            <li><a href="#">8887792884-Affan</a></li>
         </ul>
     </nav>
 
@@ -136,11 +139,10 @@ Handloom , powerloom cloths commission agent and order suppliers
         <section class="hero">
             <h1>Timeless Artistry</h1>
             <p>Hand-woven masterpieces crafted for the modern era. Experience the legacy of G.M. & SONS.</p>
-            <button class="cta-button">View Collection</button>
         </section>
 
         <section id="collection" class="products">
-            <h2 class="section-title">items</h2>
+            <h2 class="section-title">products</h2>
             <div class="grid">
                 <article class="card">
                     <img src="1000296063.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
@@ -169,7 +171,9 @@ Handloom , powerloom cloths commission agent and order suppliers
     </main>
 
     <footer>
-        <p>&copy; 2026 G.M. & SONS TEXTILES. All Rights Reserved.</p>
+        <p>&copy;  G.M. & SONS . All Rights Reserved.</p>
+        <p>&copy; SINCE 1976 .</p>
+        <p>&copy;--PLEASE VISIT AGAIN--.</p>
     </footer>
 
 </body>
