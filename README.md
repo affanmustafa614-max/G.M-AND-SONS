@@ -144,7 +144,7 @@ Handloom , powerloom cloths commission agent and order suppliers
             <div class="grid">
                 <article class="card">
                     <img src="1000296063.jpg" alt="G.M. & SONS Royal Lungi" style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                    <h3>The Royal Lungi</h3>
+                    <h3>stoll</h3>
                     <p class="price">₹2,999</p>
                 </article>
                 <article class="card">
