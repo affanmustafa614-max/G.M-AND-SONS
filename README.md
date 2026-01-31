@@ -26,7 +26,7 @@ Handloom , powerloom cloths commission agent and order suppliers
         }
         .logo  { 
     font-family: 'Baskerville', 'Garamond', 'Georgia', serif; 
-    font-size: 2.2rem; /* Making it a bit larger */
+    font-size: 4.2rem; /* Making it a bit larger */
     font-weight: bold; 
     letter-spacing: 2px; 
     color: #1B4332; /* Deep Emerald Green */
