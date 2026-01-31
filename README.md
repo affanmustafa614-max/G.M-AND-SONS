@@ -6,13 +6,6 @@ Handloom , powerloom cloths commission agent and order suppliers
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>G.M. & SONS | Luxury Indian Textiles</title>
     <style>
-                  }
-        .logo { font-family: 'Baskerville', 'Garamond', serif; /* This adds the royal font */
-    font-size: 1.8rem; /* Slightly larger for impact */
-    font-weight: bold; 
-    letter-spacing: 3px; 
-    color: #1B4332; 
-    text-transform: uppercase;}
         /* Global Styles */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
@@ -31,12 +24,14 @@ Handloom , powerloom cloths commission agent and order suppliers
             background: #FDFCFB;
             border-bottom: 1px solid #EAE0D5;
         }
-        .logo { font-family: 'Baskerville', 'Garamond', serif; /* This adds the royal font */
-    font-size: 1.8rem; /* Slightly larger for impact */
+        .logo {
+    font-family: 'Baskerville', 'Garamond', 'Georgia', serif; 
+    font-size: 1.8rem; 
     font-weight: bold; 
     letter-spacing: 3px; 
     color: #1B4332; 
-    text-transform: uppercase;}
+    text-transform: uppercase;
+    display: inline-block; /* Helps with spacing */}
            
         }
         nav ul { display: flex; list-style: none; }
