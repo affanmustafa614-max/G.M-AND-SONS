@@ -24,14 +24,15 @@ Handloom , powerloom cloths commission agent and order suppliers
             background: #FDFCFB;
             border-bottom: 1px solid #EAE0D5;
         }
-        .logo {
+        .logo  { 
     font-family: 'Baskerville', 'Garamond', 'Georgia', serif; 
-    font-size: 1.8rem; 
+    font-size: 2.2rem; /* Making it a bit larger */
     font-weight: bold; 
-    letter-spacing: 3px; 
-    color: #1B4332; 
+    letter-spacing: 2px; 
+    color: #1B4332; /* Deep Emerald Green */
     text-transform: uppercase;
-    display: inline-block; /* Helps with spacing */}
+    text-decoration: none;
+}
            
         }
         nav ul { display: flex; list-style: none; }
