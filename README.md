@@ -128,7 +128,7 @@ Handloom , powerloom cloths commission agent and order suppliers
         <ul>
             <li><a href="#collection">Collection</a></li>
             <li><a href="#">Heritage</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">8090307576</a></li>
         </ul>
     </nav>
 
@@ -140,10 +140,28 @@ Handloom , powerloom cloths commission agent and order suppliers
         </section>
 
         <section id="collection" class="products">
-            <h2 class="section-title">The Signature Edit</h2>
+            <h2 class="section-title">items</h2>
             <div class="grid">
                 <article class="card">
                     <img src="1000296063.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                     <img src="1000214010.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                      <img src="1000271338.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                       <img src="1000292753.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                        <img src="1000292762.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                         <img src="1000292773.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                          <img src="1000293241.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293253.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293265.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293274.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293538.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000294341.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000294347.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000294356.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000294384.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295571.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295582.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295601.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000296053.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                     <h3>stoll</h3>
                     <p class="price">₹</p>
                 </article>
