@@ -162,18 +162,7 @@ Handloom , powerloom cloths commission agent and order suppliers
                            <img src="1000295582.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295601.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000296053.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:cover; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                    <h3>stoll</h3>
-                    <p class="price">₹</p>
-                </article>
-                <article class="card">
-                    <div class="1000214010.jpg">stoll</div>
-                    <h3>stoll</h3>
-                    <p class="price">₹1,499</p>
-                </article>
-                <article class="card">
-                    <div class="1000293274">Silk Stole</div>
-                    <h3>Stole</h3>
-                    <p class="price">₹4,299</p>
+                   
                 </article>
             </div>
         </section>
