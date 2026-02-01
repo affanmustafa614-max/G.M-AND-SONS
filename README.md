@@ -104,7 +104,7 @@
     <header>
         <div class="brand-name">G.M. & SONS</div>
         <div class="header-info">
-            <div class="tagline">Handloom, Powerloom Cloths Commission Agent</div>
+            <div class="tagline">Handloom, Powerloom Cloths Commission Agent And Order Supplier</div>
             <div class="contact-top">Moin: 8090307576 | Affan: 8887792884</div>
         </div>
     </header>
