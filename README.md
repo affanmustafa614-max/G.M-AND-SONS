@@ -216,19 +216,5 @@ Handloom , powerloom cloths commission agent and order suppliers
     <p>SINCE 1976</p>
     <p>-- PLEASE VISIT AGAIN --</p>
 </footer>
-
-    <footer>
-        <div style="margin-bottom: 2rem;">
-            <p style="font-size: 0.8rem; letter-spacing: 1px; color: #D4AF37;">SCAN TO SHARE OUR COLLECTION</p>
-            <div style="width: 100px; height: 100px; background: white; margin: 10px auto; display: flex; align-items: center; justify-content: center; color: #333; font-size: 10px;">
-                QR CODE HERE
-            </div>
-        </div>
-
-        <p>&copy; G.M. & SONS. All Rights Reserved.</p>
-        <p>SINCE 1976</p>
-        <p style="margin-top: 10px; color: #D4AF37; letter-spacing: 2px;">-- PLEASE VISIT AGAIN --</p>
-    </footer>
-
 </body>
 </html>
