@@ -218,19 +218,6 @@ Handloom , powerloom cloths commission agent and order suppliers
                 </article>
             </div>
         </section>
-
-        <section id="powerloom" style="flex: 1; min-width: 300px;">
-            <h2 class="section-title" style="font-size: 1.5rem;">Powerloom</h2>
-            <div class="grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
-                <article class="card">
-                    <div class="img-placeholder">Product 2</div>
-                    <h3>Premium Shirting</h3>
-                    <p class="price">₹1,200</p>
-                </article>
-            </div>
-        </section>
-
-    </div>
 </main>
 
 <footer>
