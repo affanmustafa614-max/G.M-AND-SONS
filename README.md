@@ -24,9 +24,10 @@
 
         .brand-name { 
             font-size: 3.5rem; 
-            font-family: 'Baskerville', 'Garamond', serif !important;
+             font-family: 'Baskerville', 'Garamond', 'Georgia', serif;
             font-weight: bold; 
             letter-spacing: 3px; 
+            color: #1B4332; /* Deep Emerald Green */
             text-transform: uppercase;
             margin-bottom: 15px;
         }
