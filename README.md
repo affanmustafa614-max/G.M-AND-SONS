@@ -27,9 +27,9 @@ Handloom , powerloom cloths commission agent and order suppliers
         }
         .logo  { 
     font-family: 'Baskerville', 'Garamond', 'Georgia', serif; 
-    font-size: 4.2rem; /* Making it a bit larger */
+    font-size: 3.2rem; /* Making it a bit larger */
     font-weight: bold; 
-    letter-spacing: 2px; 
+    letter-spacing: 1px; 
     color: #1B4332; /* Deep Emerald Green */
     text-transform: uppercase;
     text-decoration: none;
@@ -147,25 +147,63 @@ Handloom , powerloom cloths commission agent and order suppliers
             <h2 class="section-title">products</h2>
             <div class="grid">
                 <article class="card">
-                    <img src="1000296063.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                     <img src="1000214010.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                      <img src="1000271338.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                       <img src="1000292753.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                        <img src="1000292762.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                         <img src="1000292773.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                          <img src="1000293241.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000293253.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000293265.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000293274.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000293538.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000294341.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000294347.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000294356.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000294384.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000295571.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000295582.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                           <img src="1000295601.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                    <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                     <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                      <img src="1000295711.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                       <img src="1000295720.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                        <img src="1000295723.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                         <img src="1000295726.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                          <img src="1000295729.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295732.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295735.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295728.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000296053.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000296057.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000296061.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000214010.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000214016.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270449.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270450.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270452.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270453.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270458.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000270459.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271402.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271619.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271621.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271627.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271633.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271974.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271976.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271977.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271984.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271985.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271986.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000271990.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273068.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273377.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273588.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273588.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273589.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273592.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273594.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273595.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273229.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293229.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000273595.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293229.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293232.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293241.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293244.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293247.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293253.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293256.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293259.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293271.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000293274.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295696.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
+                           <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                    
                 </article>
             </div>
