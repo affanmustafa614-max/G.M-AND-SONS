@@ -205,15 +205,43 @@ Handloom , powerloom cloths commission agent and order suppliers
                            <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                    
+                </section>
+
+        <section id="powerloom" class="products" style="background-color: #f9f6f2; border-top: 1px solid #EAE0D5;">
+            <h2 class="section-title">Powerloom Collection</h2>
+            <div class="grid">
+                <article class="card">
+                    <div class="img-placeholder">Product 4</div>
+                    <h3>Premium Shirting</h3>
+                    <p class="price">₹1,200</p>
+                </article>
+                
+                <article class="card">
+                    <div class="img-placeholder">Product 5</div>
+                    <h3>Synthetic Blend</h3>
+                    <p class="price">₹800</p>
+                </article>
+                
+                <article class="card">
+                    <div class="img-placeholder">Product 6</div>
+                    <h3>Bulk Uniform Cloth</h3>
+                    <p class="price">₹600</p>
                 </article>
             </div>
         </section>
-    </main>
+        </main>
 
     <footer>
-        <p>&copy;  G.M. & SONS . All Rights Reserved.</p>
-        <p>&copy; SINCE 1976 .</p>
-        <p>&copy;--PLEASE VISIT AGAIN--.</p>
+        <div style="margin-bottom: 2rem;">
+            <p style="font-size: 0.8rem; letter-spacing: 1px; color: #D4AF37;">SCAN TO SHARE OUR COLLECTION</p>
+            <div style="width: 100px; height: 100px; background: white; margin: 10px auto; display: flex; align-items: center; justify-content: center; color: #333; font-size: 10px;">
+                QR CODE HERE
+            </div>
+        </div>
+
+        <p>&copy; G.M. & SONS. All Rights Reserved.</p>
+        <p>SINCE 1976</p>
+        <p style="margin-top: 10px; color: #D4AF37; letter-spacing: 2px;">-- PLEASE VISIT AGAIN --</p>
     </footer>
 
 </body>
