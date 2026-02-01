@@ -205,31 +205,39 @@ Handloom , powerloom cloths commission agent and order suppliers
                            <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                    
-                </section>
-
-        <section id="powerloom" class="products" style="background-color: #f9f6f2; border-top: 1px solid #EAE0D5;">
-            <h2 class="section-title">Powerloom Collection</h2>
-            <div class="grid">
+          <main>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 2rem 8%;">
+        
+        <section id="handloom" style="flex: 1; min-width: 300px;">
+            <h2 class="section-title" style="font-size: 1.5rem;">Handloom</h2>
+            <div class="grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
                 <article class="card">
-                    <div class="img-placeholder">Product 4</div>
-                    <h3>Premium Shirting</h3>
-                    <p class="price">₹1,200</p>
-                </article>
-                
-                <article class="card">
-                    <div class="img-placeholder">Product 5</div>
-                    <h3>Synthetic Blend</h3>
-                    <p class="price">₹800</p>
-                </article>
-                
-                <article class="card">
-                    <div class="img-placeholder">Product 6</div>
-                    <h3>Bulk Uniform Cloth</h3>
-                    <p class="price">₹600</p>
+                    <img src="PIC.JPG" alt="Product 1" style="width:100%; height:300px; object-fit:cover;">
+                    <h3>The Royal Lungi</h3>
+                    <p class="price">₹3,499</p>
                 </article>
             </div>
         </section>
-        </main>
+
+        <section id="powerloom" style="flex: 1; min-width: 300px;">
+            <h2 class="section-title" style="font-size: 1.5rem;">Powerloom</h2>
+            <div class="grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
+                <article class="card">
+                    <div class="img-placeholder">Product 2</div>
+                    <h3>Premium Shirting</h3>
+                    <p class="price">₹1,200</p>
+                </article>
+            </div>
+        </section>
+
+    </div>
+</main>
+
+<footer>
+    <p>&copy; G.M. & SONS. All Rights Reserved.</p>
+    <p>SINCE 1976</p>
+    <p>-- PLEASE VISIT AGAIN --</p>
+</footer>
 
     <footer>
         <div style="margin-bottom: 2rem;">
