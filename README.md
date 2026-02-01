@@ -195,26 +195,10 @@ Handloom , powerloom cloths commission agent and order suppliers
                            <img src="1000295696.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-                   
-          <main>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 2rem 8%;">
-        
-        <section id="handloom" style="flex: 1; min-width: 300px;">
-            <h2 class="section-title" style="font-size: 1.5rem;">Handloom</h2>
-            <div class="grid" style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
-                <article class="card">
-                    <img src="PIC.JPG" alt="Product 1" style="width:100%; height:300px; object-fit:cover;">
-                    <h3>The Royal Lungi</h3>
-                    <p class="price">₹3,499</p>
-                </article>
-            </div>
-        </section>
-</main>
+     </main>
 
 <footer>
     <p>&copy; G.M. & SONS. All Rights Reserved.</p>
     <p>SINCE 1976</p>
     <p>-- PLEASE VISIT AGAIN --</p>
 </footer>
-</body>
-</html>
