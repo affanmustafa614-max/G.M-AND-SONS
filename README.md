@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>G.M. & SONS | Luxury Indian Textiles</title>
+    <title>G.M. & SONS</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     
@@ -18,14 +18,15 @@
         header {
             padding: 2rem 5%;
             border-bottom: 1px solid #EAE0D5;
-            background: white;
+            background: emerald green;
             text-align: center;
         }
 
         .brand-name { 
             font-size: 3.5rem; 
+            font-family: 'Baskerville', 'Garamond', serif !important;
             font-weight: bold; 
-            letter-spacing: 4px; 
+            letter-spacing: 3px; 
             text-transform: uppercase;
             margin-bottom: 15px;
         }
