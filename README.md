@@ -1,4 +1,3 @@
-
 # G.M AND SONS
 Handloom , powerloom cloths commission agent and order suppliers
 <html lang="en">
@@ -25,8 +24,7 @@ Handloom , powerloom cloths commission agent and order suppliers
     text-transform: uppercase;
     text-decoration: none;
 }
-           
-        }
+      {    
         nav ul { display: flex; list-style: none; }
         nav ul li { margin-left: 2.5rem; }
         nav ul li a { 
