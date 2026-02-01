@@ -5,7 +5,7 @@ Handloom , powerloom cloths commission agent and order suppliers
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=2.0">
-    <title>G.M. & SONS | Luxury Indian Textiles</title>
+    <title> | Luxury Indian Textiles</title>
     <style>
         /* Navigation */
         nav { 
@@ -195,9 +195,7 @@ Handloom , powerloom cloths commission agent and order suppliers
                            <img src="1000295696.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295702.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
                            <img src="1000295705.jpg" alt="G.M. & SONS stoll " style="width:100%; height:400px; object-fit:contain; margin-bottom: 1.5rem; border: 1px solid #EAE0D5;">
-     </main>
-
-<footer>
+     <footer>
     <p>&copy; G.M. & SONS. All Rights Reserved.</p>
     <p>SINCE 1976</p>
     <p>-- PLEASE VISIT AGAIN --</p>
