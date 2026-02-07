@@ -12,7 +12,7 @@
         
         body { 
             font-family: 'Playfair Display', serif; 
-            background-color: #FDFCFB; 
+            background-color:BABY PINK; 
             color: #1B4332; 
         }
 
