@@ -15,19 +15,52 @@
             color: #1B4332; 
         }
 
+        /* --- UPDATED HEADER LAYOUT --- */
         header {
-            padding: 2rem 5% 1rem 5%;
+            padding: 2.5rem 5% 1.5rem 5%;
             background: #F4C2C2; 
             text-align: center;
         }
 
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1400px;
+            margin: 0 auto;
+            flex-wrap: wrap;
+        }
+
+        .contact-box {
+            font-family: 'Playfair Display', serif;
+            font-size: 0.95rem;
+            color: #1B4332;
+            font-weight: 700;
+            min-width: 200px;
+        }
+
         .brand-name { 
-            font-size: clamp(2rem, 8vw, 4.5rem); 
+            font-size: clamp(2rem, 6vw, 4.5rem); 
             font-family: 'Cormorant Garamond', serif; 
             font-weight: 700; 
             letter-spacing: 8px; 
             color: #1B4332; 
             text-transform: uppercase;
+            flex: 1;
+        }
+
+        .business-description {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            margin-top: 15px;
+            font-size: 1.1rem;
+            letter-spacing: 1px;
+            color: #5E503F;
+            text-transform: uppercase;
+            font-weight: 600;
+            border-top: 1px solid rgba(27, 67, 50, 0.1);
+            display: inline-block;
+            padding-top: 10px;
         }
 
         /* --- CATEGORY FILTER SECTION --- */
@@ -171,6 +204,11 @@
             text-align: center;
             border-top: 4px solid #D4AF37;
         }
+
+        @media (max-width: 800px) {
+            .header-top { flex-direction: column; }
+            .contact-box { margin: 5px 0; }
+        }
     </style>
 </head>
 <body>
@@ -181,8 +219,14 @@
     </a>
 
     <header>
-        <div class="brand-name">G.M. & SONS</div>
-        <p style="font-style: italic; margin-top: 10px;">Handloom & Powerloom Commission Agent Since 1976</p>
+        <div class="header-top">
+            <div class="contact-box">MOIN: +91 8090307576</div>
+            <div class="brand-name">G.M. & SONS</div>
+            <div class="contact-box">AFFAN: +91 8887792884</div>
+        </div>
+        <p class="business-description">
+            HANDLOOM AND POWERLOOM CLOTHS COMMISSION AGENT AND ORDER SUPPLIER SINCE 1976
+        </p>
     </header>
 
     <div class="filter-container">
@@ -208,18 +252,8 @@
     </footer>
 
     <script>
-        // ==========================================
-        // ADD YOUR PHOTO NAMES HERE IN THE FUTURE
-        // ==========================================
-        
-        const lungiImages = [
-            // Example: "lungi_blue.jpg", "lungi_check.jpg"
-        ];
-
-        const gamchaImages = [
-            // Example: "gamcha_red.jpg", "gamcha_cotton.jpg"
-        ];
-
+        const lungiImages = [];
+        const gamchaImages = [];
         const stollImages = [
             "1000295702.jpg", "1000295705.jpg", "1000295711.jpg", "1000295720.jpg", 
             "1000295723.jpg", "1000295726.jpg", "1000295729.jpg", "1000295732.jpg", 
@@ -250,7 +284,6 @@
             "1000218165.jpg", "1000218169.jpg"
         ];
 
-        // Combine everything into one master list for "All Products"
         function getMasterList() {
             const all = [];
             lungiImages.forEach(img => all.push({ name: img, cat: "lungi" }));
@@ -267,16 +300,15 @@
 
         function removeBrokenImage(img) {
             img.closest('.card').remove();
-            // If the grid becomes empty after removals
             if (grid.children.length === 0) {
-                grid.innerHTML = '<div id="empty-message">No images found in this category.</div>';
+                grid.innerHTML = '<div id="empty-message">No images found.</div>';
             }
         }
 
         function renderGrid(items) {
             grid.innerHTML = "";
             if (items.length === 0) {
-                grid.innerHTML = '<div id="empty-message">Coming Soon: New collection arriving shortly!</div>';
+                grid.innerHTML = '<div id="empty-message">New collection arriving soon!</div>';
                 return;
             }
             items.forEach((item, index) => {
@@ -298,7 +330,7 @@
 
         function filterCategory(category) {
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
+            if(event) event.target.classList.add('active');
 
             if (category === 'all') {
                 activeList = getMasterList();
@@ -343,7 +375,6 @@
             document.body.style.overflow = 'auto';
         };
 
-        // Initial Render
         renderGrid(getMasterList());
     </script>
 </body>
