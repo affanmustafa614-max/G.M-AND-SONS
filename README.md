@@ -15,15 +15,14 @@
             color: #1B4332; 
         }
 
-        /* --- STICKY NAVIGATION --- */
+        /* --- HEADER (STICKY REMOVED) --- */
         header {
             padding: 2rem 5%;
             border-bottom: 3px solid #D4AF37; 
             background: #F4C2C2; 
             text-align: center;
             box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-            position: sticky;
-            top: 0;
+            /* Removed position: sticky and top: 0 */
             z-index: 1000;
         }
 
@@ -109,7 +108,7 @@
         }
         .card:hover img { transform: scale(1.05); }
 
-        /* --- ENHANCED LIGHTBOX --- */
+        /* --- LIGHTBOX --- */
         #lightbox {
             display: none;
             position: fixed;
@@ -227,7 +226,7 @@
     <script>
         const rawImageList = ["1000295702.jpg", "1000295705.jpg", "1000295711.jpg", "1000295720.jpg", "1000295723.jpg", "1000295726.jpg", "1000295729.jpg", "1000295732.jpg", "1000295735.jpg", "1000295728.jpg", "1000296053.jpg", "1000296057.jpg", "1000296061.jpg", "1000214010.jpg", "1000214016.jpg", "1000270449.jpg", "1000270450.jpg", "1000270452.jpg", "1000270453.jpg", "1000270458.jpg", "1000270459.jpg", "1000271402.jpg", "1000271619.jpg", "1000271621.jpg", "1000271627.jpg", "1000271633.jpg", "1000271974.jpg", "1000271976.jpg", "1000271977.jpg", "1000271984.jpg", "1000271985.jpg", "1000271986.jpg", "1000271990.jpg", "1000273068.jpg", "1000273377.jpg", "1000273588.jpg", "1000273589.jpg", "1000273592.jpg", "1000273594.jpg", "1000273595.jpg", "1000273229.jpg", "1000293229.jpg", "1000293232.jpg", "1000293241.jpg", "1000293244.jpg", "1000293247.jpg", "1000293253.jpg", "1000293256.jpg", "1000293259.jpg", "1000293271.jpg", "1000293274.jpg", "1000295696.jpg", "1000271377.jpg", "1000271379.jpg", "1000271381.jpg", "1000271383.jpg", "1000271385.jpg", "1000271392.jpg", "1000271399.jpg", "1000271409.jpg", "1000271412.jpg", "1000271417.jpg", "1000271596.jpg", "1000271599.jpg", "1000271603.jpg", "1000270397.jpg", "1000270449.jpg", "1000270450.jpg", "1000270453.jpg", "1000270458.jpg", "1000271367.jpg", "1000271369.jpg", "1000271371.jpg", "1000271373.jpg", "1000271375.jpg", "1000271377.jpg", "1000271379.jpg", "1000271381.jpg", "1000218263.jpg", "1000218264.jpg", "1000218265.jpg", "1000218270.jpg", "1000218271.jpg", "1000270359.jpg", "1000270365.jpg", "1000270368.jpg", "1000270370.jpg", "1000270371.jpg", "1000270372.jpg", "1000270394.jpg", "1000270397.jpg", "1000218171.jpg", "1000218172.jpg", "1000218175.jpg", "1000218184.jpg", "1000218222.jpg", "1000218248.jpg", "1000218249.jpg", "1000218250.jpg", "1000218251.jpg", "1000218254.jpg", "1000208256.jpg", "1000218259.jpg", "1000218260.jpg", "1000218261.jpg", "1000218262.jpg", "1000218127.jpg", "1000218128.jpg", "1000218129.jpg", "1000218132.jpg", "1000218139.jpg", "1000218155.jpg", "1000218165.jpg", "1000218169.jpg"];
 
-        // UNIQUE IMAGES CLEANUP
+        // 1. DEDUPLICATION
         const imageList = [...new Set(rawImageList)]; 
         
         const grid = document.getElementById('image-grid');
@@ -236,13 +235,12 @@
         const bttButton = document.getElementById('backToTop');
         let currentIndex = 0;
 
-        // AUTO-FIX: Function to remove the card if image fails to load
+        // 2. AUTO-FIX MISSING IMAGES
         function removeBrokenImage(img) {
-            console.warn("Hidden missing image:", img.src);
             img.closest('.card').style.display = 'none';
         }
 
-        // GRID GENERATION
+        // 3. GRID GENERATION
         imageList.forEach((imgName, index) => {
             const card = document.createElement('article');
             card.className = 'card';
@@ -261,7 +259,7 @@
             grid.appendChild(card);
         });
 
-        // LIGHTBOX LOGIC
+        // 4. LIGHTBOX NAVIGATION
         function openLightbox(index) {
             currentIndex = index;
             updateLightboxImage();
@@ -271,7 +269,6 @@
 
         function updateLightboxImage() {
             lightboxImg.src = imageList[currentIndex];
-            // If the lightbox image itself is broken, we don't want a black screen
             lightboxImg.onerror = () => { lightboxImg.src = 'https://via.placeholder.com/600x800?text=Image+Not+Available'; };
         }
 
@@ -297,7 +294,7 @@
             document.body.style.overflow = 'auto';
         };
 
-        // NAV & UX
+        // 5. BACK TO TOP BUTTON
         window.onscroll = () => {
             bttButton.style.display = (window.scrollY > 400) ? "block" : "none";
         };
